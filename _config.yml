@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Maria Hararwala  # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Data Science Student at Michigan State University  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Data Science student at Michigan State University 
@@ -148,7 +148,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://Mariahararwala.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
